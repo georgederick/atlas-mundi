@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 170" fill="none">
+<g stroke="#f3ecdc" stroke-width="2" stroke-linecap="round"><circle cx="180" cy="44" r="30"/><ellipse cx="180" cy="44" rx="12" ry="30"/><path d="M150 44h60M156 30h48M156 58h48"/></g>
+<path d="M180 20l7 24-7 24-7-24z" fill="#5aa877"/>
+<text x="187" y="122" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="46" letter-spacing="16" fill="#f3ecdc">ATLAS</text>
+<text x="184" y="150" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="13" letter-spacing="11" fill="#5aa877">MUNDIAL</text>
+</svg>
